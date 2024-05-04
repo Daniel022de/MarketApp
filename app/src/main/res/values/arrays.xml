@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tmb_lifestyle">
+        <item>Pouco ou nenhum exercícios</item>
+        <item>Exercícios leve. 1 a 3 dias por semana.</item>
+        <item>Exercícios moderado. 3 a 5 dias por semana.</item>
+        <item>Exercícios pesado. 6 a 7 dias por semana.</item>
+        <item>Exercícios pesado diariamente e aé 2x/dia.</item>
+    </string-array>
+
+    <string-array name="unit_options">
+        <item>Unidade</item>
+        <item>kg</item>
+        <item>Litro(s)</item>
+    </string-array>
+
+
+</resources>

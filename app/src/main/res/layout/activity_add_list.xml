@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddActivity">
+
+
+   <include
+       android:id="@+id/toolbar_add"
+       layout="@layout/toolbar_layout" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_gravity="center">
+
+            <EditText
+                style="@style/EditTextForm"
+                android:id="@+id/edit_add_food"
+                android:hint="@string/food" />
+
+            <EditText
+                style="@style/EditTextForm"
+                android:id="@+id/edit_add_amount"
+                android:hint="@string/amount"/>
+
+            <TextView
+                android:id="@+id/text_explanation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Selecione a unidade desejada"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="8dp"/>
+
+            <RadioGroup
+                android:id="@+id/radio_group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radio_unit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Unidade" />
+
+                <RadioButton
+                    android:id="@+id/radio_kg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kg" />
+
+                <RadioButton
+                    android:id="@+id/radio_litro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Litro" />
+
+            </RadioGroup>
+
+
+
+            <Button
+                style="@style/ButtonForm"
+                android:id="@+id/btn_food_send"
+                android:text="@string/add" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

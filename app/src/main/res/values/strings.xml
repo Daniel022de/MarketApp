@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mercado</string>
+    <string name="text_splash">Mercado App</string>
+    <string name="add">Adicionar</string>
+    <string name="list">Lista</string>
+    <string name="food">Alimento</string>
+    <string name="amount">Quantidade</string>
+    <string name="send">enviar</string>
+    <string name="fields_message">Os campos devem ser preenchidos e diferente de zero</string>
+    <string name="food_response_title">Você está adicionando o alimento:</string>
+    <string name="food_response_message">%1$s  %2$s %3$s </string>
+    <string name="save">Salvar</string>
+    <string name="calc_saved">Registro salvo com sucesso</string>
+    <string name="calc_removed">Registro removido com sucesso</string>
+    <string name="search">Buscar</string>
+    <string name="list_empty">Por enquanto, sua lista está <b>vazia</b>...</string>
+    <string name="app_desc"><b>® Created by Daniel Oliveira.</b></string>
+    <string name="delete_message">Você realmente quer excluir esse alimento da lista?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="list_response"><font color="#000000">%1$s</font>  <font color="#000000">%2$s</font> <font color="#000000">%3$s</font></string>
+
+</resources>
