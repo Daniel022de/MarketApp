@@ -17,3 +17,11 @@ Este aplicativo foi desenvolvido com o objetivo de simplificar a organização d
 
 [Assista ao vídeo de demonstração do aplicativo](https://www.loom.com/share/fe3576b145c64bbe8a0232cf10f8168f)
 
+## Como Contribuir
+
+Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novos recursos. 
+Entre em contato comigo pelo e-mail: [ddololiveira.pessoal@gmail.com](mailto:ddololiveira.pessoal@gmail.com).
+
+
+Agradeço antecipadamente por qualquer contribuição!
+
