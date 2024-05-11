@@ -13,10 +13,6 @@ Este aplicativo foi desenvolvido com o objetivo de simplificar a organização d
 - **Arquitetura MVP**: Implementação da arquitetura Model-View-Presenter para uma separação clara de responsabilidades e uma manutenção mais fácil do código.
 - **Tela de Login**: Criação de uma tela de login para garantir o acesso seguro ao aplicativo.
 
-## Vídeo de Demonstração
-
-[Assista ao vídeo de demonstração do aplicativo](https://www.loom.com/share/fe3576b145c64bbe8a0232cf10f8168f)
-
 ## Como Contribuir
 
 Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novos recursos. 
